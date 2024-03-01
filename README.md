@@ -1,18 +1,18 @@
-Project Akhir: Analisis Data
-Deskripsi
-Repositori ini berisi proyek akhir tentang analisis data menggunakan Python. Proyek ini mencakup penggunaan berbagai library seperti NumPy, Pandas, Matplotlib, Seaborn, dan Streamlit untuk melakukan analisis data, visualisasi, dan pembuatan dashboard interaktif.
+# Project Akhir: Analisis Data
 
-Instalasi
-Pastikan Anda telah menginstal Python di komputer Anda.
-Buka terminal atau command prompt.
-Install Streamlit menggunakan pip:
-pip install streamlit
-Install library lain yang diperlukan menggunakan pip:
-pip install numpy pandas scipy matplotlib seaborn
+##### Repositori ini berisi proyek akhir tentang analisis data menggunakan Python. Proyek ini mencakup penggunaan berbagai library seperti NumPy, Pandas, Matplotlib, Seaborn, dan Streamlit untuk melakukan analisis data, visualisasi, dan pembuatan dashboard interaktif.
+
+## Instalasi
+- Pastikan Anda telah menginstal Python di komputer Anda.
+- Buka terminal atau command prompt.
+- Install Streamlit menggunakan pip:
+<pre><code>pip install streamlit</code></pre>
+- Install library lain yang diperlukan menggunakan pip:
+<pre><code>pip install numpy pandas scipy matplotlib seaborn</code></pre>
 Clone repositori ini ke komputer lokal Anda:
-git clone https://github.com/yuliapratiwii/Project-Akhir-analisis-data.git
-Masuk ke direktori lokal repositori:
-cd Project-Akhir-analisis-data
+<pre><code> git clone https://github.com/yuliapratiwii/Project-Akhir-analisis-data.git</code></pre>
+- Masuk ke direktori lokal repositori:
+<pre><code> cd Project-Akhir-analisis-data </code></pre>
 Jalankan aplikasi dengan perintah:
-streamlit run dashboard.py
+<pre><code> streamlit run dashboard.py</code></pre>
 
